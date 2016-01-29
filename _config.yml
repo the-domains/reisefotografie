@@ -1,0 +1,28 @@
+name: reisefotografie
+favicon: null
+layout_spectrum: 0.3673816400114447
+typography_spectrum: 0.08283448591828346
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.558314501773566
+  lightness: 0.9090370372869074
+  saturation: 0.8078522239811718
+  rhythmicContrast: 0.024686343735083938
+purpose: []
